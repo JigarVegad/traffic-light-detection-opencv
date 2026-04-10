@@ -56,8 +56,8 @@ traffic-light-detection-opencv/
 ├── README.md
 │
 ├── images/
-│   ├── sample1.jpg
-│   ├── sample2.jpg
+│   ├── Image1.png
+│   ├── Image2.png
 │
 └── results/
     ├── output images (generated automatically)
@@ -91,8 +91,6 @@ python main.py
 ---
 
 ## 📸 Results
-
-(Add your output images here after running the code)
 
 Example:
 
