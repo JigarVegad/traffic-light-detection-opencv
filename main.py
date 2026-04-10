@@ -160,7 +160,7 @@ def process_image(image_path):
 # MAIN
 # ----------------------------
 image_files = glob.glob("images/*")
-image_files = [f for f in image_files if f.lower().endswith(('.jpg', '.jpeg', '.png', '.bmp'))]
+image_files = [f for f in image_files if f.lower().endswith(('.jpg', '.jpeg', '.png', '.bmp'))] 
 
 if not image_files:
     print("No images found!")

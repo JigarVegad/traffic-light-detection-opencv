@@ -96,8 +96,8 @@ python main.py
 
 Example:
 
-![Result 1](results/sample1.jpg)
-![Result 2](results/sample2.jpg)
+![Result 1](results/Image1.png)
+![Result 2](results/Image2.png)
 
 ---
 
